@@ -3,5 +3,7 @@ Hello MySelf Yarnav Tanwar.
 Steps:
 
 add
-commit
+commit (always with a message)
 push
+.
+This is main.
