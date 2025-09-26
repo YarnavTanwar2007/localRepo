@@ -9,5 +9,4 @@ push
 
 checkout => to navigate
 checkout -b => to create
-checkout -d => to delete (if you delete the existing branch then it will show it as *(HEAD detached -something-) 
-                so switch to some other branch.)
+checkout -d => to delete (if you delete the existing branch then it will show it as *(HEAD detached -something-) so switch to some other branch.)
